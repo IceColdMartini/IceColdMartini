@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/KaziFah77817602" target="blank"><img src="https://img.shields.io/twitter/follow/kazi fahim?logo=twitter&style=for-the-badge" alt="kazi fahim" /></a> </p>
 
-- 🔭 I’m currently working on **CompilerProject**
+- 🔭 I’m currently working on **CNN Models**
 
-- 🌱 I’m currently learning **Swift and React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **C++ , ReactJS , NodeJS**
 
