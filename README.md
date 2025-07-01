@@ -10,20 +10,20 @@
 
 <p align="left"> <a href="https://twitter.com/KaziFah77817602" target="blank"><img src="https://img.shields.io/twitter/follow/kazi fahim?logo=twitter&style=for-the-badge" alt="kazi fahim" /></a> </p>
 
-- 🔭 I’m currently working on **CNN Models**
+- 🔭 I’m currently working on **GraphRAG**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **LangChain,LangGraph and Kubernetes**
 
-- 💬 Ask me about **C++ , ReactJS , NodeJS**
+- 💬 Ask me about **C++ , LangChain , NodeJS**
 
 - 📫 How to reach me **kazifahimtahmid@gmail.com**
 
-- ⚡ Fun fact **Do I actually have to say anything?**
+- ⚡ Fun fact **The Prodigy became the Prodigal Son**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/KaziFah77817602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kazi fahim" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hervoldemort/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi fahim tahmid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/icecoldmartini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi fahim tahmid" height="30" width="40" /></a>
 <a href="https://fb.com/kazi fahim tahmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi fahim tahmid" height="30" width="40" /></a>
 <a href="https://instagram.com/wolfpackk___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wolfpackk__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UClyFUG9AkTUfoVWE0oCUzWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kazi fahim" height="30" width="40" /></a>
